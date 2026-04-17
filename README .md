@@ -51,7 +51,7 @@ qa-cypress-project/
  │    ├── e2e/
  │    │    └── checkout.cy.js
  │    ├── fixtures/
- │    │    └── user.json
+ │    │    └── example.json
  │    └── support/
  │         ├── commands.js
  │         └── e2e.js
