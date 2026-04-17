@@ -220,6 +220,35 @@ npx cypress run
 
 ---
 
+
+## 📸 Screenshots
+
+### 🟢 1. Cypress Test Execution
+![Image 1](images/login.png)
+
+👉 This shows the Cypress login process
+
+---
+
+### 🟢 2. Product Selection & Cart
+![Image 2](images/cart.png)
+
+👉 Demonstrates selecting a product and adding it to the cart.
+
+---
+
+### 🟢 3. Checkout Process
+![Image 3](images/payment.png)
+
+👉 Shows the total amount of bill.
+
+---
+
+### 🟢 4. Order Confirmation
+![Image 4](images/orderplaced.png)
+
+👉 Displays the final success message: “Thank you for your order!”
+
 ## 📸 Additional Features
 
 * Automatic screenshots on failure
