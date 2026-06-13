@@ -15,7 +15,7 @@ To automate a real-world user journey:
 
 ## 🌐 Application Under Test
 
-We used: SauceDemo
+Used: SauceDemo
 
 👉 SauceDemo is a demo e-commerce website designed for QA practice.
 👉 It allows testers to simulate real shopping workflows safely.
